@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TL3HW27NP9.com.yibo.internet.browser.beam",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
